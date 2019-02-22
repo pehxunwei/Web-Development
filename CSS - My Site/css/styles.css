@@ -107,10 +107,12 @@ hr {
     border-radius: 50%;
 }
 
-.chilli-img {
+.beer-img {
     width: 25%;
     float: right;
     margin-left: 30px;
+    background-color: #262261;
+    border-radius: 50%;
 }
 
 .btn {
